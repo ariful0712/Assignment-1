@@ -1,0 +1,1 @@
+I have added a few extra sections to make the landing page more complete and visually appealing. The new sections include "Why Attend DevConf", "DevConf in Numbers", and a simple Newsletter Subscription section. These additions improve the user experience and provide more useful information for visitors.
